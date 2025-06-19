@@ -1,5 +1,4 @@
-**
-Terminal Chatbot AI using OpenRouter**
+**Terminal Chatbot AI using OpenRouter**
 
 This is a simple terminal-based chatbot that runs on your computer. It uses a powerful free language model from Meta, provided through the OpenRouter platform. You can type messages and it will reply intelligently, keeping context of your conversation.
 
