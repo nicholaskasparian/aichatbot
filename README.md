@@ -1,0 +1,1 @@
+This program only functions using OpenRouter's free API. Sign up for a free account and retrieve an API key. After doing this, you can replace the placeholder with your key. While this is a free API, I highly advise against making your key public, as bad actors can possibly get it rate limited or banned. 
