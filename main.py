@@ -18,7 +18,7 @@ while using == True:
             "Content-Type": "application/json",
         },
         data=json.dumps({
-            "model": "google/gemma-3-27b-it:free",
+            "model": "meta-llama/llama-4-scout-17b-16e-instruct:free",
             "messages": messages
         })
     )
